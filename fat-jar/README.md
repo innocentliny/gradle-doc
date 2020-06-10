@@ -14,3 +14,6 @@ task fatJar(type: Jar) {
     with jar
 }
 ```
+
+## Option 2 - Shadow plugin
+See [Gradle Shadow Plugin](https://imperceptiblethoughts.com/shadow/)
